@@ -1,1 +1,2 @@
 print("BIMILLAH")
+print(3+3+3)
